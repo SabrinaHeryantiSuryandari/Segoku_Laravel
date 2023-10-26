@@ -16,32 +16,32 @@ class LabaSeeder extends Seeder
     {
         $DataLaba = [
             [
-                'bulan'=>'2022-11-3',
-                'laba_bulanan'=>'10600000',
+                'bulan'=>'2022-11',
+                'laba_bulanan'=>'2000000',
             ],
             [
-                'bulan'=>'2022-12-3',
-                'laba_bulanan'=>'11100000',
+                'bulan'=>'2022-12',
+                'laba_bulanan'=>'3756000',
             ],
             [
-                'bulan'=>'2023-01-3',
-                'laba_bulanan'=>'9500000',
+                'bulan'=>'2023-01',
+                'laba_bulanan'=>'2960000',
             ],
             [
-                'bulan'=>'2023-02-3',
-                'laba_bulanan'=>'10900000',
+                'bulan'=>'2023-02',
+                'laba_bulanan'=>'2248000',
             ],
             [
-                'bulan'=>'2023-03-3',
-                'laba_bulanan'=>'10700000',
+                'bulan'=>'2023-03',
+                'laba_bulanan'=>'2740000',
             ],
             [
-                'bulan'=>'2023-04-3',
-                'laba_bulanan'=>'12000000',
+                'bulan'=>'2023-04',
+                'laba_bulanan'=>'2584000',
             ],
             [
-                'bulan'=>'2023-05-3',
-                'laba_bulanan'=>'11000000',
+                'bulan'=>'2023-05',
+                'laba_bulanan'=>'2508000',
             ],
         ];
         foreach($DataLaba as $key => $laba){
